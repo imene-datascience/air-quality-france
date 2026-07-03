@@ -53,11 +53,14 @@ Feature importance disponible dans `outputs/04_feature_importance.html`.
 
 ## ⚠️ Limite identifiée — Data Leakage
 
-Le R² de 0.999 obtenu avec le Random Forest n'est **pas un signe de performance exceptionnelle**, mais révèle un problème de **fuite de données (data leakage)** :
+Le R² de 0.999 obtenu avec le Random Forest n'est **pas un signe de performance exceptionnelle**, mais révèle un problème de **fuite de données (data leakage)**, pour deux raisons combinées :
 
-Selon la méthodologie de l'AQI (norme US EPA), l'indice global `aqi_value` est calculé comme **le maximum des sous-indices individuels** (PM2.5, NO2, Ozone, CO). Utiliser ces sous-indices comme variables prédictives revient donc à donner au modèle une information qui détermine quasi-directement la cible — le modèle n'apprend pas une vraie relation prédictive, il retrouve une règle de calcul.
+1. **Construction mathématique de l'AQI** : selon la méthodologie US EPA, l'indice global `aqi_value` est calculé comme **le maximum des sous-indices individuels** (PM2.5, NO2, Ozone, CO). Utiliser ces sous-indices comme variables prédictives revient donc à donner au modèle une information qui détermine quasi-directement la cible.
+2. **Nature du dataset** : ce jeu de données (Kaggle "Global Air Pollution Dataset") ne provient pas de mesures de terrain vérifiées, mais semble généré/agrégé de façon synthétique. Il n'a donc pas le bruit et les incohérences qu'on trouverait dans de vraies données de capteurs, ce qui rend la relation entre sous-indices et AQI encore plus mécanique et facile à apprendre pour le modèle.
 
-**Pourquoi je le documente ici plutôt que de le cacher :** identifier et expliquer ce biais est plus révélateur d'une compréhension solide en data science qu'un score parfait présenté sans recul. Une vraie tâche prédictive nécessiterait des features indépendantes du calcul de l'AQI (météo, trafic, densité urbaine, saison, etc.).
+Le modèle n'apprend donc pas une vraie relation prédictive : il retrouve une règle de calcul sur des données propres et non-bruitées.
+
+**Pourquoi je le documente ici plutôt que de le cacher :** identifier et expliquer ce biais est plus révélateur d'une compréhension solide en data science qu'un score parfait présenté sans recul. Une vraie tâche prédictive nécessiterait des données de mesures réelles et des features indépendantes du calcul de l'AQI (météo, trafic, densité urbaine, saison, etc.).
 
 ## 🛠️ Stack technique
 
