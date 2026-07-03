@@ -1,0 +1,803 @@
+country_name,city_name,aqi_value,aqi_category,co_aqi_value,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
+France,Punaauia,22,Good,0,Good,22,Good,0,Good,6,Good
+France,Raismes,59,Moderate,1,Good,30,Good,4,Good,59,Moderate
+France,Pontarlier,56,Moderate,1,Good,35,Good,0,Good,56,Moderate
+France,Haubourdin,48,Good,1,Good,28,Good,4,Good,48,Good
+France,Aix En Provence,55,Moderate,1,Good,26,Good,3,Good,55,Moderate
+France,Armentieres,34,Good,0,Good,28,Good,2,Good,34,Good
+France,Chalon Sur Saone,32,Good,1,Good,32,Good,1,Good,20,Good
+France,Beaune,39,Good,1,Good,26,Good,1,Good,39,Good
+France,Paita,27,Good,0,Good,27,Good,0,Good,10,Good
+France,Saint Cyr Sur Loire,37,Good,1,Good,25,Good,2,Good,37,Good
+France,Saint Quentin,39,Good,1,Good,25,Good,2,Good,39,Good
+France,Riom,40,Good,1,Good,30,Good,1,Good,40,Good
+France,Rodez,42,Good,1,Good,31,Good,1,Good,42,Good
+France,Romans Sur Isere,37,Good,1,Good,30,Good,1,Good,37,Good
+France,Guipavas,34,Good,1,Good,26,Good,9,Good,34,Good
+France,Fosses,29,Good,0,Good,28,Good,2,Good,29,Good
+France,Le Port,42,Good,1,Good,28,Good,0,Good,42,Good
+France,Libourne,46,Good,1,Good,26,Good,2,Good,46,Good
+France,Malakoff,40,Good,1,Good,26,Good,3,Good,40,Good
+France,Halluin,35,Good,0,Good,28,Good,2,Good,35,Good
+France,La Crau,60,Moderate,1,Good,30,Good,6,Good,60,Moderate
+France,Marseille,59,Moderate,1,Good,37,Good,6,Good,59,Moderate
+France,Montauban,32,Good,1,Good,32,Good,2,Good,32,Good
+France,Montigny Le Bretonneux,62,Moderate,1,Good,17,Good,7,Good,62,Moderate
+France,Lannion,41,Good,1,Good,26,Good,4,Good,41,Good
+France,Le Blanc Mesnil,60,Moderate,1,Good,20,Good,6,Good,60,Moderate
+France,Le Tampon,62,Moderate,1,Good,26,Good,1,Good,62,Moderate
+France,Joigny,31,Good,1,Good,31,Good,1,Good,21,Good
+France,Jeumont,51,Moderate,1,Good,22,Good,5,Good,51,Moderate
+France,Le Lamentin,85,Moderate,0,Good,25,Good,0,Good,85,Moderate
+France,La Baule Escoublac,33,Good,0,Good,33,Good,0,Good,21,Good
+France,La Madeleine,38,Good,1,Good,23,Good,3,Good,38,Good
+France,Fameck,28,Good,1,Good,27,Good,2,Good,28,Good
+France,Fontenay Le Fleury,46,Good,1,Good,19,Good,4,Good,46,Good
+France,Goussainville,51,Moderate,1,Good,21,Good,5,Good,51,Moderate
+France,Grasse,72,Moderate,1,Good,34,Good,3,Good,72,Moderate
+France,Fougeres,29,Good,0,Good,29,Good,1,Good,17,Good
+France,Moissy Cramayel,46,Good,1,Good,23,Good,4,Good,46,Good
+France,Montgeron,50,Good,1,Good,22,Good,5,Good,50,Good
+France,Montigny Les Cormeilles,50,Good,1,Good,19,Good,5,Good,50,Good
+France,Nimes,39,Good,1,Good,37,Good,0,Good,39,Good
+France,Niort,32,Good,0,Good,32,Good,1,Good,18,Good
+France,Orleans,71,Moderate,1,Good,24,Good,4,Good,71,Moderate
+France,Pertuis,151,Unhealthy,1,Good,31,Good,5,Good,151,Unhealthy
+France,Epernay,53,Moderate,1,Good,23,Good,3,Good,53,Moderate
+France,Lattes,48,Good,1,Good,48,Good,0,Good,29,Good
+France,Laxou,75,Moderate,1,Good,54,Moderate,0,Good,75,Moderate
+France,Le Petit Quevilly,57,Moderate,1,Good,44,Good,0,Good,57,Moderate
+France,Levallois Perret,70,Moderate,1,Good,44,Good,1,Good,70,Moderate
+France,Limeil Brevannes,73,Moderate,1,Good,45,Good,1,Good,73,Moderate
+France,Longuenesse,35,Good,1,Good,35,Good,0,Good,31,Good
+France,Ronchin,47,Good,1,Good,25,Good,5,Good,47,Good
+France,Roncq,44,Good,1,Good,27,Good,5,Good,44,Good
+France,Saint Andre Lez Lille,46,Good,1,Good,29,Good,4,Good,46,Good
+France,Saint Claude,109,Unhealthy for Sensitive Groups,1,Good,25,Good,0,Good,109,Unhealthy for Sensitive Groups
+France,Saint Paul Les Dax,41,Good,1,Good,41,Good,1,Good,17,Good
+France,Saint Priest,109,Unhealthy for Sensitive Groups,2,Good,23,Good,5,Good,109,Unhealthy for Sensitive Groups
+France,Sete,47,Good,1,Good,47,Good,0,Good,29,Good
+France,Woippy,69,Moderate,1,Good,56,Moderate,0,Good,69,Moderate
+France,Noisiel,62,Moderate,1,Good,25,Good,4,Good,62,Moderate
+France,Noyon,76,Moderate,1,Good,31,Good,3,Good,76,Moderate
+France,Colombes,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Creutzwald,27,Good,0,Good,27,Good,2,Good,20,Good
+France,Bois Colombes,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Chamonix Mont Blanc,44,Good,1,Good,31,Good,0,Good,44,Good
+France,Chauny,31,Good,1,Good,25,Good,2,Good,31,Good
+France,Evreux,29,Good,0,Good,29,Good,1,Good,28,Good
+France,Bressuire,39,Good,1,Good,39,Good,0,Good,22,Good
+France,Brie Comte Robert,74,Moderate,1,Good,45,Good,1,Good,74,Moderate
+France,Brignais,68,Moderate,1,Good,58,Moderate,0,Good,68,Moderate
+France,Bures Sur Yvette,72,Moderate,1,Good,43,Good,2,Good,72,Moderate
+France,Challans,43,Good,1,Good,43,Good,0,Good,16,Good
+France,Angouleme,42,Good,1,Good,42,Good,0,Good,23,Good
+France,Annonay,59,Moderate,1,Good,51,Moderate,0,Good,59,Moderate
+France,Bagnols Sur Ceze,50,Good,1,Good,49,Good,0,Good,50,Good
+France,Roanne,39,Good,1,Good,24,Good,2,Good,39,Good
+France,Rombas,24,Good,1,Good,23,Good,3,Good,24,Good
+France,Saint Brieuc,36,Good,1,Good,24,Good,5,Good,36,Good
+France,Saint Cloud,40,Good,1,Good,27,Good,3,Good,40,Good
+France,Saint Leu,50,Good,1,Good,27,Good,1,Good,50,Good
+France,Saint Lo,33,Good,0,Good,33,Good,1,Good,20,Good
+France,Sainte Savine,26,Good,1,Good,25,Good,2,Good,26,Good
+France,Saran,29,Good,1,Good,29,Good,2,Good,26,Good
+France,Sedan,33,Good,1,Good,25,Good,3,Good,33,Good
+France,Wasquehal,46,Good,1,Good,36,Good,2,Good,46,Good
+France,Argenteuil,62,Moderate,1,Good,19,Good,6,Good,62,Moderate
+France,Audincourt,61,Moderate,1,Good,30,Good,1,Good,61,Moderate
+France,Tarnos,60,Moderate,1,Good,45,Good,1,Good,60,Moderate
+France,Tassin La Demi Lune,30,Good,1,Good,24,Good,3,Good,30,Good
+France,Thouars,30,Good,1,Good,30,Good,2,Good,26,Good
+France,Tournefeuille,31,Good,1,Good,29,Good,2,Good,31,Good
+France,Venissieux,31,Good,1,Good,25,Good,3,Good,31,Good
+France,Vernouillet,60,Moderate,1,Good,20,Good,6,Good,60,Moderate
+France,Viroflay,63,Moderate,1,Good,18,Good,7,Good,63,Moderate
+France,Voisins Le Bretonneux,63,Moderate,1,Good,17,Good,7,Good,63,Moderate
+France,Bellegarde Sur Valserine,54,Moderate,1,Good,28,Good,1,Good,54,Moderate
+France,Bethune,49,Good,1,Good,28,Good,3,Good,49,Good
+France,Floirac,51,Moderate,1,Good,38,Good,1,Good,51,Moderate
+France,Ploemeur,32,Good,1,Good,32,Good,2,Good,31,Good
+France,Saint Andre Les Vergers,29,Good,1,Good,29,Good,2,Good,23,Good
+France,Saint Michel Sur Orge,56,Moderate,1,Good,20,Good,6,Good,56,Moderate
+France,Saint Sebastien Sur Loire,32,Good,1,Good,27,Good,2,Good,32,Good
+France,Sainte Luce Sur Loire,32,Good,1,Good,27,Good,2,Good,32,Good
+France,Sallaumines,50,Good,1,Good,25,Good,4,Good,50,Good
+France,Saverne,65,Moderate,1,Good,21,Good,4,Good,65,Moderate
+France,Schiltigheim,65,Moderate,1,Good,23,Good,4,Good,65,Moderate
+France,Ivry Sur Seine,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+France,Guyancourt,69,Moderate,2,Good,27,Good,6,Good,69,Moderate
+France,Harnes,51,Moderate,1,Good,32,Good,3,Good,51,Moderate
+France,Brest,28,Good,0,Good,28,Good,1,Good,25,Good
+France,Barentin,41,Good,1,Good,25,Good,3,Good,41,Good
+France,Combs La Ville,48,Good,1,Good,23,Good,4,Good,48,Good
+France,Bezons,50,Good,1,Good,20,Good,5,Good,50,Good
+France,Hazebrouck,36,Good,1,Good,36,Good,0,Good,35,Good
+France,Chartres,38,Good,1,Good,29,Good,2,Good,38,Good
+France,Cherbourg,49,Good,1,Good,13,Good,10,Good,49,Good
+France,Paea,32,Good,0,Good,32,Good,0,Good,13,Good
+France,Wittenheim,42,Good,1,Good,26,Good,2,Good,42,Good
+France,Villeneuve Saint Georges,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Merignac,52,Moderate,1,Good,28,Good,2,Good,52,Moderate
+France,Nantes,38,Good,1,Good,25,Good,2,Good,38,Good
+France,Tergnier,32,Good,1,Good,25,Good,2,Good,32,Good
+France,Triel Sur Seine,31,Good,0,Good,28,Good,2,Good,31,Good
+France,Valentigney,40,Good,1,Good,25,Good,1,Good,40,Good
+France,La Chapelle Sur Erdre,24,Good,1,Good,22,Good,4,Good,24,Good
+France,Meyzieu,118,Unhealthy for Sensitive Groups,2,Good,24,Good,4,Good,118,Unhealthy for Sensitive Groups
+France,Limoges,74,Moderate,1,Good,29,Good,2,Good,74,Moderate
+France,Bernay,53,Moderate,1,Good,29,Good,3,Good,53,Moderate
+France,Bordeaux,47,Good,0,Good,47,Good,0,Good,16,Good
+France,Vitrolles,47,Good,1,Good,47,Good,3,Good,41,Good
+France,Lisieux,61,Moderate,2,Good,18,Good,6,Good,61,Moderate
+France,Amberieu En Bugey,129,Unhealthy for Sensitive Groups,2,Good,24,Good,3,Good,129,Unhealthy for Sensitive Groups
+France,Dinan,51,Moderate,1,Good,21,Good,5,Good,51,Moderate
+France,Dole,55,Moderate,1,Good,30,Good,1,Good,55,Moderate
+France,Vitry Le Francois,28,Good,1,Good,26,Good,1,Good,28,Good
+France,Saint Omer,39,Good,1,Good,39,Good,1,Good,35,Good
+France,Sainte Maxime,42,Good,1,Good,42,Good,2,Good,31,Good
+France,Septemes Les Vallons,31,Good,1,Good,31,Good,5,Good,31,Good
+France,Savigny Le Temple,69,Moderate,1,Good,20,Good,5,Good,69,Moderate
+France,Seynod,128,Unhealthy for Sensitive Groups,2,Good,26,Good,3,Good,128,Unhealthy for Sensitive Groups
+France,Ales,57,Moderate,1,Good,30,Good,2,Good,57,Moderate
+France,Bry Sur Marne,83,Moderate,3,Good,17,Good,9,Good,83,Moderate
+France,Cayenne,52,Moderate,0,Good,21,Good,0,Good,52,Moderate
+France,Bourg La Reine,85,Moderate,3,Good,16,Good,10,Good,85,Moderate
+France,Nevers,51,Moderate,1,Good,30,Good,1,Good,51,Moderate
+France,Nancy,63,Moderate,1,Good,32,Good,1,Good,63,Moderate
+France,Chaumont,58,Moderate,1,Good,30,Good,2,Good,58,Moderate
+France,Chevilly Larue,72,Moderate,2,Good,20,Good,6,Good,72,Moderate
+France,Claye Souilly,66,Moderate,1,Good,21,Good,5,Good,66,Moderate
+France,Fontenay Sous Bois,70,Moderate,1,Good,46,Good,1,Good,70,Moderate
+France,Garches,72,Moderate,1,Good,43,Good,2,Good,72,Moderate
+France,Saint Malo,40,Good,1,Good,31,Good,3,Good,40,Good
+France,Poitiers,39,Good,1,Good,39,Good,0,Good,28,Good
+France,Roche La Moliere,60,Moderate,1,Good,47,Good,0,Good,60,Moderate
+France,Marignane,47,Good,1,Good,47,Good,3,Good,42,Good
+France,Marly,54,Moderate,1,Good,42,Good,1,Good,54,Moderate
+France,Montigny En Gohelle,51,Moderate,1,Good,32,Good,3,Good,51,Moderate
+France,Kleinblittersdorf,66,Moderate,1,Good,54,Moderate,0,Good,66,Moderate
+France,Bondy,69,Moderate,1,Good,46,Good,1,Good,69,Moderate
+France,Carvin,49,Good,1,Good,38,Good,1,Good,49,Good
+France,Champigny Sur Marne,71,Moderate,1,Good,45,Good,1,Good,71,Moderate
+France,Cholet,38,Good,1,Good,38,Good,0,Good,23,Good
+France,Clermont Ferrand,59,Moderate,1,Good,41,Good,0,Good,59,Moderate
+France,Valbonne,74,Moderate,2,Good,34,Good,3,Good,74,Moderate
+France,Outreau,41,Good,1,Good,41,Good,1,Good,26,Good
+France,Palaiseau,84,Moderate,3,Good,16,Good,10,Good,84,Moderate
+France,Quimper,48,Good,1,Good,42,Good,2,Good,48,Good
+France,Pierrelatte,64,Moderate,2,Good,18,Good,5,Good,64,Moderate
+France,Ostwald,69,Moderate,1,Good,61,Moderate,0,Good,69,Moderate
+France,Coueron,40,Good,1,Good,40,Good,0,Good,21,Good
+France,Courrieres,48,Good,1,Good,38,Good,1,Good,48,Good
+France,Roubaix,46,Good,1,Good,38,Good,1,Good,46,Good
+France,Passy,64,Moderate,1,Good,39,Good,0,Good,64,Moderate
+France,Beziers,61,Moderate,1,Good,34,Good,2,Good,61,Moderate
+France,Sorgues,50,Good,1,Good,23,Good,5,Good,50,Good
+France,La Courneuve,61,Moderate,1,Good,19,Good,6,Good,61,Moderate
+France,Le Portel,50,Good,1,Good,35,Good,1,Good,50,Good
+France,Maisons Laffitte,61,Moderate,1,Good,20,Good,6,Good,61,Moderate
+France,Florange,28,Good,1,Good,27,Good,2,Good,28,Good
+France,Montlucon,37,Good,0,Good,37,Good,0,Good,23,Good
+France,Nogent Le Rotrou,28,Good,1,Good,22,Good,2,Good,28,Good
+France,Vallauris,58,Moderate,2,Good,19,Good,8,Good,58,Moderate
+France,Verneuil Sur Seine,31,Good,0,Good,28,Good,2,Good,31,Good
+France,Villefranche Sur Saone,42,Good,1,Good,27,Good,1,Good,42,Good
+France,Bergerac,42,Good,1,Good,34,Good,1,Good,42,Good
+France,Biarritz,40,Good,0,Good,40,Good,0,Good,23,Good
+France,Charleville Mezieres,32,Good,1,Good,27,Good,2,Good,32,Good
+France,Amboise,40,Good,1,Good,24,Good,2,Good,40,Good
+France,Amiens,40,Good,1,Good,20,Good,3,Good,40,Good
+France,Royan,38,Good,0,Good,38,Good,0,Good,19,Good
+France,Saint Genis Laval,38,Good,1,Good,32,Good,1,Good,38,Good
+France,Sainte Anne,99,Moderate,0,Good,25,Good,0,Good,99,Moderate
+France,Sartrouville,50,Good,1,Good,19,Good,4,Good,50,Good
+France,Sevres,50,Good,1,Good,20,Good,5,Good,50,Good
+France,Toulon,49,Good,1,Good,49,Good,4,Good,39,Good
+France,Valence,54,Moderate,1,Good,47,Good,0,Good,54,Moderate
+France,Montfermeil,69,Moderate,1,Good,46,Good,1,Good,69,Moderate
+France,Dourdan,76,Moderate,1,Good,38,Good,2,Good,76,Moderate
+France,Dunkirk,35,Good,1,Good,35,Good,0,Good,31,Good
+France,Avrille,27,Good,1,Good,24,Good,3,Good,27,Good
+France,Chateau Thierry,68,Moderate,1,Good,24,Good,3,Good,68,Moderate
+France,Draveil,57,Moderate,1,Good,20,Good,6,Good,57,Moderate
+France,Angers,32,Good,1,Good,18,Good,4,Good,32,Good
+France,Fontainebleau,66,Moderate,1,Good,20,Good,4,Good,66,Moderate
+France,Bois Guillaume,55,Moderate,1,Good,30,Good,3,Good,55,Moderate
+France,Bondues,45,Good,1,Good,26,Good,5,Good,45,Good
+France,Gisors,66,Moderate,1,Good,29,Good,3,Good,66,Moderate
+France,Ermont,71,Moderate,2,Good,28,Good,5,Good,71,Moderate
+France,Muret,50,Good,1,Good,32,Good,2,Good,50,Good
+France,Saint Dizier,56,Moderate,1,Good,28,Good,2,Good,56,Moderate
+France,Saint Gilles,137,Unhealthy for Sensitive Groups,2,Good,24,Good,8,Good,137,Unhealthy for Sensitive Groups
+France,Orly,66,Moderate,1,Good,23,Good,5,Good,66,Moderate
+France,Osny,63,Moderate,1,Good,24,Good,5,Good,63,Moderate
+France,Reze,23,Good,1,Good,23,Good,4,Good,23,Good
+France,Villeneuve Sur Lot,54,Moderate,1,Good,29,Good,3,Good,54,Moderate
+France,Villeparisis,69,Moderate,2,Good,29,Good,5,Good,69,Moderate
+France,Koungou,30,Good,0,Good,30,Good,0,Good,14,Good
+France,Le Mee Sur Seine,65,Moderate,2,Good,28,Good,6,Good,65,Moderate
+France,Lens,51,Moderate,1,Good,35,Good,2,Good,51,Moderate
+France,Saint Benoit,57,Moderate,1,Good,28,Good,0,Good,57,Moderate
+France,Saint Germain En Laye,80,Moderate,2,Good,18,Good,8,Good,80,Moderate
+France,Sainte Rose,39,Good,0,Good,25,Good,0,Good,39,Good
+France,Suresnes,69,Moderate,1,Good,45,Good,2,Good,69,Moderate
+France,Talence,41,Good,1,Good,41,Good,0,Good,23,Good
+France,Chatou,63,Moderate,1,Good,18,Good,7,Good,63,Moderate
+France,Coudekerque Branche,44,Good,1,Good,33,Good,1,Good,44,Good
+France,Coulommiers,51,Moderate,1,Good,21,Good,4,Good,51,Moderate
+France,Balma,33,Good,1,Good,29,Good,3,Good,33,Good
+France,Bischheim,65,Moderate,1,Good,23,Good,4,Good,65,Moderate
+France,Boulogne Sur Mer,50,Good,1,Good,35,Good,1,Good,50,Good
+France,Cachan,61,Moderate,1,Good,18,Good,7,Good,61,Moderate
+France,Cagnes Sur Mer,59,Moderate,1,Good,41,Good,2,Good,59,Moderate
+France,Bras Panon,41,Good,1,Good,27,Good,0,Good,41,Good
+France,Cavaillon,46,Good,1,Good,29,Good,2,Good,46,Good
+France,Arles,60,Moderate,1,Good,31,Good,3,Good,60,Moderate
+France,Avignon,66,Moderate,1,Good,31,Good,3,Good,66,Moderate
+France,Calais,31,Good,0,Good,31,Good,1,Good,28,Good
+France,Rueil Malmaison,63,Moderate,1,Good,18,Good,7,Good,63,Moderate
+France,Saint Pol Sur Mer,44,Good,1,Good,33,Good,1,Good,44,Good
+France,Nemours,30,Good,1,Good,26,Good,2,Good,30,Good
+France,Marmande,38,Good,1,Good,29,Good,1,Good,38,Good
+France,Mondeville,33,Good,1,Good,28,Good,3,Good,33,Good
+France,Le Robert,106,Unhealthy for Sensitive Groups,0,Good,24,Good,0,Good,106,Unhealthy for Sensitive Groups
+France,La Seyne Sur Mer,108,Unhealthy for Sensitive Groups,1,Good,22,Good,16,Good,108,Unhealthy for Sensitive Groups
+France,Le Cannet,100,Unhealthy for Sensitive Groups,2,Good,20,Good,9,Good,100,Unhealthy for Sensitive Groups
+France,Maisons Alfort,65,Moderate,1,Good,24,Good,5,Good,65,Moderate
+France,Meru,59,Moderate,1,Good,25,Good,4,Good,59,Moderate
+France,Mougins,100,Unhealthy for Sensitive Groups,2,Good,20,Good,9,Good,100,Unhealthy for Sensitive Groups
+France,Mulhouse,63,Moderate,2,Good,21,Good,4,Good,63,Moderate
+France,Millau,144,Unhealthy for Sensitive Groups,1,Good,36,Good,1,Good,144,Unhealthy for Sensitive Groups
+France,Givors,67,Moderate,1,Good,60,Moderate,0,Good,67,Moderate
+France,Gradignan,41,Good,1,Good,41,Good,0,Good,21,Good
+France,Issoire,64,Moderate,1,Good,42,Good,0,Good,64,Moderate
+France,Albi,58,Moderate,1,Good,31,Good,2,Good,58,Moderate
+France,Pantin,61,Moderate,1,Good,19,Good,7,Good,61,Moderate
+France,Pont A Mousson,65,Moderate,1,Good,23,Good,3,Good,65,Moderate
+France,Grande Synthe,45,Good,1,Good,33,Good,1,Good,45,Good
+France,Issy Les Moulineaux,63,Moderate,1,Good,18,Good,7,Good,63,Moderate
+France,Parthenay,28,Good,1,Good,28,Good,2,Good,28,Good
+France,Francheville,37,Good,1,Good,26,Good,2,Good,37,Good
+France,Epinay Sous Senart,38,Good,1,Good,26,Good,3,Good,38,Good
+France,Deuil La Barre,37,Good,1,Good,27,Good,3,Good,37,Good
+France,Lambersart,38,Good,1,Good,23,Good,3,Good,38,Good
+France,Lunel,41,Good,1,Good,37,Good,0,Good,41,Good
+France,Octeville,30,Good,0,Good,30,Good,3,Good,24,Good
+France,Gujan Mestras,43,Good,0,Good,43,Good,0,Good,25,Good
+France,Saint Brice Sous Foret,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Saint Maximin La Sainte Baume,60,Moderate,1,Good,21,Good,5,Good,60,Moderate
+France,Plaisance Du Touch,43,Good,1,Good,33,Good,2,Good,43,Good
+France,Belfort,63,Moderate,1,Good,49,Good,0,Good,63,Moderate
+France,Blagnac,44,Good,1,Good,38,Good,1,Good,44,Good
+France,Bonneuil,67,Moderate,1,Good,46,Good,1,Good,67,Moderate
+France,Bourges,58,Moderate,1,Good,38,Good,0,Good,58,Moderate
+France,Amilly,67,Moderate,1,Good,19,Good,4,Good,67,Moderate
+France,Arnouville Les Gonesse,67,Moderate,1,Good,22,Good,5,Good,67,Moderate
+France,Autun,151,Unhealthy,1,Good,30,Good,2,Good,151,Unhealthy
+France,Behren Les Forbach,44,Good,1,Good,31,Good,3,Good,44,Good
+France,Bolbec,43,Good,1,Good,32,Good,2,Good,43,Good
+France,Carrieres Sur Seine,69,Moderate,1,Good,21,Good,6,Good,69,Moderate
+France,Bully Les Mines,46,Good,1,Good,25,Good,4,Good,46,Good
+France,Sollies Pont,111,Unhealthy for Sensitive Groups,1,Good,23,Good,13,Good,111,Unhealthy for Sensitive Groups
+France,Avion,47,Good,1,Good,38,Good,1,Good,47,Good
+France,Metz,69,Moderate,1,Good,55,Moderate,0,Good,69,Moderate
+France,Vaulx En Velin,70,Moderate,1,Good,53,Moderate,0,Good,70,Moderate
+France,Villeneuve Le Roi,72,Moderate,1,Good,44,Good,1,Good,72,Moderate
+France,Villers Les Nancy,75,Moderate,1,Good,54,Moderate,0,Good,75,Moderate
+France,Villejuif,72,Moderate,1,Good,44,Good,1,Good,72,Moderate
+France,Hirson,58,Moderate,1,Good,47,Good,0,Good,58,Moderate
+France,Illzach,65,Moderate,1,Good,55,Moderate,0,Good,65,Moderate
+France,Berck,34,Good,1,Good,30,Good,3,Good,34,Good
+France,Carros,111,Unhealthy for Sensitive Groups,2,Good,19,Good,7,Good,111,Unhealthy for Sensitive Groups
+France,Chatenay Malabry,67,Moderate,1,Good,23,Good,5,Good,67,Moderate
+France,Yerres,50,Good,1,Good,22,Good,5,Good,50,Good
+France,Le Pontet,38,Good,1,Good,33,Good,0,Good,38,Good
+France,Les Ponts De Ce,27,Good,0,Good,27,Good,1,Good,17,Good
+France,Joue Les Tours,37,Good,1,Good,25,Good,2,Good,37,Good
+France,Montivilliers,42,Good,1,Good,24,Good,4,Good,42,Good
+France,Vaires Sur Marne,50,Good,1,Good,22,Good,5,Good,50,Good
+France,Nanterre,50,Good,1,Good,20,Good,5,Good,50,Good
+France,Vitry Sur Seine,51,Moderate,1,Good,21,Good,5,Good,51,Moderate
+France,Houilles,50,Good,1,Good,19,Good,4,Good,50,Good
+France,Gaillac,38,Good,1,Good,31,Good,1,Good,38,Good
+France,Enghien Les Bains,55,Moderate,1,Good,18,Good,6,Good,55,Moderate
+France,Fleury Les Aubrais,38,Good,1,Good,23,Good,2,Good,38,Good
+France,Guerande,33,Good,0,Good,33,Good,0,Good,21,Good
+France,Le Chesnay,70,Moderate,1,Good,43,Good,2,Good,70,Moderate
+France,Le Plessis Trevise,70,Moderate,1,Good,45,Good,1,Good,70,Moderate
+France,Lillebonne,50,Good,1,Good,41,Good,0,Good,50,Good
+France,Bayeux,37,Good,1,Good,33,Good,2,Good,37,Good
+France,Fos Sur Mer,146,Unhealthy for Sensitive Groups,1,Good,23,Good,14,Good,146,Unhealthy for Sensitive Groups
+France,Herblay,61,Moderate,1,Good,20,Good,6,Good,61,Moderate
+France,Orthez,43,Good,1,Good,43,Good,1,Good,34,Good
+France,Poissy,62,Moderate,1,Good,19,Good,6,Good,62,Moderate
+France,Morsang Sur Orge,58,Moderate,1,Good,19,Good,6,Good,58,Moderate
+France,La Fleche,31,Good,1,Good,26,Good,2,Good,31,Good
+France,Les Mureaux,59,Moderate,1,Good,21,Good,5,Good,59,Moderate
+France,Nice,54,Moderate,1,Good,43,Good,2,Good,54,Moderate
+France,Ollioules,61,Moderate,1,Good,26,Good,6,Good,61,Moderate
+France,Orvault,38,Good,1,Good,25,Good,2,Good,38,Good
+France,Oullins,31,Good,1,Good,26,Good,2,Good,31,Good
+France,Ramonville Saint Agne,39,Good,1,Good,33,Good,1,Good,39,Good
+France,Rixheim,46,Good,1,Good,23,Good,2,Good,46,Good
+France,Saint Chamond,35,Good,1,Good,24,Good,2,Good,35,Good
+France,Saint Fons,41,Good,1,Good,26,Good,1,Good,41,Good
+France,Saumur,30,Good,1,Good,27,Good,1,Good,30,Good
+France,Basse Terre,55,Moderate,0,Good,28,Good,0,Good,55,Moderate
+France,Cambrai,54,Moderate,1,Good,42,Good,1,Good,54,Moderate
+France,Canteleu,56,Moderate,1,Good,44,Good,0,Good,56,Moderate
+France,Chalons En Champagne,72,Moderate,1,Good,50,Good,0,Good,72,Moderate
+France,Chenove,64,Moderate,1,Good,45,Good,0,Good,64,Moderate
+France,Billere,37,Good,1,Good,37,Good,1,Good,21,Good
+France,Chateauneuf Les Martigues,59,Moderate,1,Good,36,Good,5,Good,59,Moderate
+France,Chelles,59,Moderate,1,Good,19,Good,6,Good,59,Moderate
+France,Torcy,57,Moderate,1,Good,20,Good,6,Good,57,Moderate
+France,Courbevoie,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+France,Agen,46,Good,1,Good,37,Good,1,Good,46,Good
+France,Pierrefitte Sur Seine,67,Moderate,1,Good,46,Good,1,Good,67,Moderate
+France,Seyssinet Pariset,34,Good,1,Good,34,Good,1,Good,33,Good
+France,Rouen,57,Moderate,1,Good,44,Good,0,Good,57,Moderate
+France,Roissy En Brie,72,Moderate,1,Good,45,Good,1,Good,72,Moderate
+France,Romainville,70,Moderate,1,Good,46,Good,1,Good,70,Moderate
+France,Dieppe,43,Good,1,Good,36,Good,0,Good,43,Good
+France,Fecamp,44,Good,1,Good,39,Good,0,Good,44,Good
+France,Voiron,61,Moderate,1,Good,31,Good,1,Good,61,Moderate
+France,Fontenay Le Comte,30,Good,1,Good,30,Good,2,Good,27,Good
+France,Miramas,52,Moderate,1,Good,30,Good,2,Good,52,Moderate
+France,Le Pre Saint Gervais,39,Good,1,Good,26,Good,3,Good,39,Good
+France,Le Francois,35,Good,0,Good,25,Good,0,Good,35,Good
+France,Le Mans,30,Good,1,Good,30,Good,2,Good,24,Good
+France,Le Plessis Robinson,71,Moderate,2,Good,27,Good,6,Good,71,Moderate
+France,Les Clayes Sous Bois,79,Moderate,2,Good,17,Good,8,Good,79,Moderate
+France,Kourou,57,Moderate,0,Good,21,Good,0,Good,57,Moderate
+France,Pont Sainte Maxence,59,Moderate,1,Good,25,Good,3,Good,59,Moderate
+France,Saint Martin De Crau,151,Unhealthy,2,Good,22,Good,11,Good,151,Unhealthy
+France,Saintes,42,Good,0,Good,42,Good,0,Good,13,Good
+France,Riviere Pilote,137,Unhealthy for Sensitive Groups,1,Good,26,Good,0,Good,137,Unhealthy for Sensitive Groups
+France,Rognac,148,Unhealthy for Sensitive Groups,1,Good,25,Good,12,Good,148,Unhealthy for Sensitive Groups
+France,Saint Raphael,88,Moderate,1,Good,33,Good,6,Good,88,Moderate
+France,Senlis,53,Moderate,1,Good,24,Good,3,Good,53,Moderate
+France,Tarare,24,Good,1,Good,24,Good,3,Good,22,Good
+France,Reims,49,Good,1,Good,26,Good,3,Good,49,Good
+France,Somain,50,Good,1,Good,23,Good,5,Good,50,Good
+France,Bobigny,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Bourg Les Valence,27,Good,1,Good,26,Good,1,Good,27,Good
+France,Arras,35,Good,1,Good,25,Good,2,Good,35,Good
+France,Domont,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Beauvais,30,Good,0,Good,28,Good,1,Good,30,Good
+France,Clamart,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Villiers Le Bel,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Tulle,30,Good,1,Good,25,Good,2,Good,30,Good
+France,Gonesse,71,Moderate,2,Good,28,Good,5,Good,71,Moderate
+France,Saint Etienne Du Rouvray,66,Moderate,1,Good,30,Good,3,Good,66,Moderate
+France,Saint Mande,72,Moderate,2,Good,27,Good,6,Good,72,Moderate
+France,Meaux,66,Moderate,1,Good,30,Good,3,Good,66,Moderate
+France,Lognes,80,Moderate,2,Good,18,Good,8,Good,80,Moderate
+France,Velizy Villacoublay,70,Moderate,2,Good,27,Good,6,Good,70,Moderate
+France,Villefontaine,53,Moderate,1,Good,28,Good,2,Good,53,Moderate
+France,Villefranche De Rouergue,57,Moderate,1,Good,30,Good,1,Good,57,Moderate
+France,Villiers Sur Marne,71,Moderate,2,Good,28,Good,6,Good,71,Moderate
+France,Deville Les Rouen,69,Moderate,2,Good,23,Good,4,Good,69,Moderate
+France,Bonneville,60,Moderate,1,Good,29,Good,2,Good,60,Moderate
+France,Plougastel Daoulas,51,Moderate,2,Good,16,Good,15,Good,51,Moderate
+France,Porto Vecchio,45,Good,1,Good,45,Good,1,Good,22,Good
+France,Dumbea,24,Good,0,Good,24,Good,1,Good,17,Good
+France,Lorient,40,Good,1,Good,23,Good,3,Good,40,Good
+France,Lyon,107,Unhealthy for Sensitive Groups,2,Good,24,Good,4,Good,107,Unhealthy for Sensitive Groups
+France,Mayenne,58,Moderate,1,Good,22,Good,4,Good,58,Moderate
+France,Mennecy,72,Moderate,2,Good,20,Good,6,Good,72,Moderate
+France,Le Bouscat,46,Good,0,Good,46,Good,0,Good,15,Good
+France,Montbrison,150,Unhealthy,1,Good,34,Good,2,Good,150,Unhealthy
+France,Moulins,150,Unhealthy,1,Good,30,Good,2,Good,150,Unhealthy
+France,Obernai,55,Moderate,2,Good,28,Good,3,Good,55,Moderate
+France,Choisy Le Roi,71,Moderate,2,Good,27,Good,6,Good,71,Moderate
+France,Epinal,55,Moderate,1,Good,34,Good,1,Good,55,Moderate
+France,Gardanne,30,Good,1,Good,24,Good,8,Good,30,Good
+France,Morlaix,52,Moderate,1,Good,32,Good,5,Good,52,Moderate
+France,Mouvaux,46,Good,1,Good,36,Good,2,Good,46,Good
+France,Toul,62,Moderate,1,Good,33,Good,1,Good,62,Moderate
+France,Toulouse,53,Moderate,1,Good,32,Good,2,Good,53,Moderate
+France,Tours,36,Good,1,Good,28,Good,3,Good,36,Good
+France,Sarcelles,67,Moderate,1,Good,46,Good,1,Good,67,Moderate
+France,Saint Jean De Braye,69,Moderate,1,Good,34,Good,1,Good,69,Moderate
+France,Brignoles,51,Moderate,1,Good,51,Moderate,2,Good,38,Good
+France,Bron,69,Moderate,1,Good,55,Moderate,0,Good,69,Moderate
+France,Cenon,42,Good,1,Good,42,Good,0,Good,26,Good
+France,Chatillon,70,Moderate,1,Good,44,Good,2,Good,70,Moderate
+France,Hennebont,40,Good,1,Good,40,Good,0,Good,29,Good
+France,Mitry Mory,68,Moderate,1,Good,47,Good,1,Good,68,Moderate
+France,Montargis,70,Moderate,1,Good,41,Good,1,Good,70,Moderate
+France,Bastia,80,Moderate,1,Good,80,Moderate,1,Good,25,Good
+France,Beaucaire,51,Moderate,1,Good,51,Moderate,0,Good,39,Good
+France,Briancon,54,Moderate,0,Good,38,Good,0,Good,54,Moderate
+France,Cernay,66,Moderate,1,Good,55,Moderate,0,Good,66,Moderate
+France,Chateaurenard,49,Good,1,Good,49,Good,0,Good,40,Good
+France,Eysines,42,Good,1,Good,42,Good,0,Good,22,Good
+France,Genas,69,Moderate,1,Good,54,Moderate,0,Good,69,Moderate
+France,Croix,45,Good,1,Good,38,Good,1,Good,45,Good
+France,Le Pont De Claix,55,Moderate,1,Good,41,Good,0,Good,55,Moderate
+France,Saint Martin Boulogne,35,Good,1,Good,35,Good,0,Good,26,Good
+France,Savigny Sur Orge,73,Moderate,2,Good,20,Good,6,Good,73,Moderate
+France,Morangis,67,Moderate,1,Good,23,Good,5,Good,67,Moderate
+France,Louviers,54,Moderate,1,Good,30,Good,2,Good,54,Moderate
+France,Orsay,75,Moderate,2,Good,20,Good,7,Good,75,Moderate
+France,Sable Sur Sarthe,64,Moderate,1,Good,23,Good,3,Good,64,Moderate
+France,Saint Max,57,Moderate,1,Good,27,Good,3,Good,57,Moderate
+France,Pontoise,63,Moderate,1,Good,23,Good,5,Good,63,Moderate
+France,Massy,72,Moderate,1,Good,44,Good,2,Good,72,Moderate
+France,Mazamet,47,Good,1,Good,41,Good,0,Good,47,Good
+France,Mende,44,Good,1,Good,39,Good,0,Good,44,Good
+France,Montataire,61,Moderate,1,Good,47,Good,0,Good,61,Moderate
+France,Pierre Benite,69,Moderate,1,Good,56,Moderate,0,Good,69,Moderate
+France,Plan De Cuques,48,Good,1,Good,48,Good,3,Good,40,Good
+France,Lons,36,Good,1,Good,36,Good,1,Good,25,Good
+France,Acheres,67,Moderate,1,Good,22,Good,5,Good,67,Moderate
+France,Cusset,39,Good,1,Good,29,Good,1,Good,39,Good
+France,Franconville,50,Good,1,Good,19,Good,5,Good,50,Good
+France,Gif Sur Yvette,46,Good,1,Good,20,Good,4,Good,46,Good
+France,Echirolles,40,Good,3,Good,1,Good,25,Good,40,Good
+France,Perigueux,36,Good,1,Good,36,Good,1,Good,25,Good
+France,Hyeres,62,Moderate,1,Good,29,Good,8,Good,62,Moderate
+France,La Celle Saint Cloud,63,Moderate,1,Good,18,Good,7,Good,63,Moderate
+France,La Queue En Brie,58,Moderate,1,Good,19,Good,6,Good,58,Moderate
+France,Mons En Baroeul,48,Good,1,Good,27,Good,4,Good,48,Good
+France,Nogent Sur Oise,54,Moderate,1,Good,24,Good,3,Good,54,Moderate
+France,Elancourt,62,Moderate,1,Good,17,Good,7,Good,62,Moderate
+France,Quimperle,45,Good,1,Good,32,Good,2,Good,45,Good
+France,Saint Francois,100,Unhealthy for Sensitive Groups,0,Good,25,Good,0,Good,100,Unhealthy for Sensitive Groups
+France,Pontivy,40,Good,1,Good,27,Good,3,Good,40,Good
+France,Alencon,48,Good,1,Good,22,Good,3,Good,48,Good
+France,Anglet,40,Good,0,Good,40,Good,0,Good,24,Good
+France,Arcueil,55,Moderate,1,Good,18,Good,6,Good,55,Moderate
+France,Stiring Wendel,26,Good,1,Good,25,Good,2,Good,26,Good
+France,Tarascon,45,Good,1,Good,32,Good,3,Good,45,Good
+France,Vienne,56,Moderate,1,Good,29,Good,2,Good,56,Moderate
+France,Versailles,70,Moderate,2,Good,27,Good,6,Good,70,Moderate
+France,Annemasse,67,Moderate,1,Good,29,Good,1,Good,67,Moderate
+France,Apt,57,Moderate,1,Good,39,Good,3,Good,57,Moderate
+France,Vertou,32,Good,1,Good,26,Good,2,Good,32,Good
+France,Limay,63,Moderate,1,Good,28,Good,4,Good,63,Moderate
+France,Istres,48,Good,1,Good,48,Good,2,Good,38,Good
+France,Valenciennes,54,Moderate,1,Good,41,Good,1,Good,54,Moderate
+France,Verdun,69,Moderate,1,Good,50,Good,0,Good,69,Moderate
+France,Ajaccio,44,Good,1,Good,44,Good,2,Good,30,Good
+France,Alfortville,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Brunoy,56,Moderate,1,Good,20,Good,6,Good,56,Moderate
+France,Carpentras,58,Moderate,1,Good,36,Good,2,Good,58,Moderate
+France,Caudry,36,Good,1,Good,25,Good,2,Good,36,Good
+France,Croissy Sur Seine,34,Good,1,Good,27,Good,2,Good,34,Good
+France,Saint Junien,38,Good,1,Good,30,Good,2,Good,38,Good
+France,Mont Saint Aignan,42,Good,1,Good,23,Good,3,Good,42,Good
+France,Montpellier,43,Good,1,Good,37,Good,0,Good,43,Good
+France,Marly Le Roi,47,Good,1,Good,19,Good,4,Good,47,Good
+France,Mauguio,42,Good,1,Good,37,Good,0,Good,42,Good
+France,Meylan,33,Good,1,Good,27,Good,1,Good,33,Good
+France,Wittelsheim,33,Good,1,Good,31,Good,1,Good,33,Good
+France,Decines Charpieu,55,Moderate,1,Good,29,Good,2,Good,55,Moderate
+France,Allauch,30,Good,1,Good,30,Good,6,Good,27,Good
+France,Gentilly,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Drancy,38,Good,1,Good,26,Good,3,Good,38,Good
+France,Flers,30,Good,1,Good,30,Good,2,Good,22,Good
+France,Saint Herblain,57,Moderate,1,Good,22,Good,4,Good,57,Moderate
+France,Saint Medard En Jalles,35,Good,1,Good,31,Good,2,Good,35,Good
+France,Montreuil,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Villeneuve La Garenne,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Livry Gargan,51,Moderate,1,Good,21,Good,5,Good,51,Moderate
+France,Longjumeau,53,Moderate,1,Good,18,Good,6,Good,53,Moderate
+France,Loos,38,Good,1,Good,23,Good,3,Good,38,Good
+France,Tarbes,33,Good,1,Good,33,Good,0,Good,15,Good
+France,Vire,52,Moderate,1,Good,36,Good,1,Good,52,Moderate
+France,Graulhet,52,Moderate,1,Good,39,Good,1,Good,52,Moderate
+France,Grenoble,50,Good,2,Good,50,Good,1,Good,40,Good
+France,Henin Beaumont,50,Good,1,Good,38,Good,1,Good,50,Good
+France,La Garde,49,Good,1,Good,49,Good,4,Good,39,Good
+France,Le Havre,51,Moderate,1,Good,41,Good,0,Good,51,Moderate
+France,Matoury,19,Good,0,Good,19,Good,0,Good,19,Good
+France,Maurepas,72,Moderate,1,Good,40,Good,2,Good,72,Moderate
+France,Moissac,40,Good,1,Good,40,Good,0,Good,39,Good
+France,Draguignan,57,Moderate,1,Good,57,Moderate,1,Good,38,Good
+France,Caen,55,Moderate,1,Good,37,Good,1,Good,55,Moderate
+France,Cannes,61,Moderate,1,Good,61,Moderate,1,Good,42,Good
+France,Aurillac,60,Moderate,1,Good,40,Good,0,Good,60,Moderate
+France,Saint Ouen,69,Moderate,1,Good,45,Good,1,Good,69,Moderate
+France,Blois,34,Good,1,Good,29,Good,3,Good,34,Good
+France,Auch,44,Good,1,Good,32,Good,2,Good,44,Good
+France,Bagneux,72,Moderate,2,Good,20,Good,6,Good,72,Moderate
+France,Concarneau,51,Moderate,1,Good,43,Good,1,Good,51,Moderate
+France,Frontignan,48,Good,1,Good,37,Good,0,Good,48,Good
+France,Hem,38,Good,1,Good,23,Good,3,Good,38,Good
+France,Herouville Saint Clair,40,Good,1,Good,28,Good,3,Good,40,Good
+France,Faaa,29,Good,0,Good,29,Good,0,Good,15,Good
+France,Fontenay Aux Roses,50,Good,1,Good,20,Good,5,Good,50,Good
+France,Dreux,39,Good,1,Good,18,Good,3,Good,39,Good
+France,Aulnay Sous Bois,68,Moderate,1,Good,21,Good,5,Good,68,Moderate
+France,Haguenau,45,Good,1,Good,33,Good,3,Good,45,Good
+France,Hautmont,58,Moderate,1,Good,26,Good,5,Good,58,Moderate
+France,Fort De France,136,Unhealthy for Sensitive Groups,1,Good,26,Good,0,Good,136,Unhealthy for Sensitive Groups
+France,Laon,59,Moderate,1,Good,28,Good,3,Good,59,Moderate
+France,Sin Le Noble,51,Moderate,1,Good,24,Good,5,Good,51,Moderate
+France,Soisy Sous Montmorency,61,Moderate,1,Good,25,Good,4,Good,61,Moderate
+France,Sannois,67,Moderate,1,Good,22,Good,5,Good,67,Moderate
+France,Strasbourg,51,Moderate,2,Good,30,Good,4,Good,51,Moderate
+France,Denain,59,Moderate,1,Good,32,Good,3,Good,59,Moderate
+France,Thiais,55,Moderate,1,Good,18,Good,6,Good,55,Moderate
+France,Plerin,30,Good,0,Good,30,Good,1,Good,24,Good
+France,Le Grand Quevilly,42,Good,1,Good,23,Good,3,Good,42,Good
+France,Manosque,68,Moderate,1,Good,37,Good,2,Good,68,Moderate
+France,Gueret,38,Good,1,Good,27,Good,1,Good,38,Good
+France,Fourmies,34,Good,1,Good,24,Good,3,Good,34,Good
+France,Gagny,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Jouy Le Moutier,33,Good,1,Good,27,Good,2,Good,33,Good
+France,Fontaine,28,Good,3,Good,7,Good,18,Good,28,Good
+France,Riorges,51,Moderate,1,Good,30,Good,1,Good,51,Moderate
+France,Ris Orangis,70,Moderate,2,Good,27,Good,7,Good,70,Moderate
+France,Mions,36,Good,1,Good,26,Good,2,Good,36,Good
+France,Noeux Les Mines,31,Good,0,Good,29,Good,1,Good,31,Good
+France,Noisy Le Grand,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Mantes La Jolie,30,Good,0,Good,28,Good,1,Good,30,Good
+France,Mahina,25,Good,0,Good,25,Good,0,Good,14,Good
+France,Crepy En Valois,62,Moderate,1,Good,48,Good,0,Good,62,Moderate
+France,Aubergenville,64,Moderate,1,Good,25,Good,4,Good,64,Moderate
+France,Bourg En Bresse,30,Good,1,Good,30,Good,1,Good,18,Good
+France,Brive La Gaillarde,37,Good,1,Good,37,Good,1,Good,30,Good
+France,Annecy,110,Unhealthy for Sensitive Groups,2,Good,16,Good,5,Good,110,Unhealthy for Sensitive Groups
+France,Annoeullin,46,Good,1,Good,25,Good,5,Good,46,Good
+France,Argentan,53,Moderate,1,Good,29,Good,2,Good,53,Moderate
+France,Chalette Sur Loing,59,Moderate,2,Good,21,Good,5,Good,59,Moderate
+France,Blanquefort,35,Good,1,Good,26,Good,3,Good,35,Good
+France,Boulogne Billancourt,84,Moderate,2,Good,16,Good,9,Good,84,Moderate
+France,Conflans Sainte Honorine,69,Moderate,2,Good,29,Good,4,Good,69,Moderate
+France,Corbeil Essonnes,69,Moderate,2,Good,28,Good,6,Good,69,Moderate
+France,Trelaze,29,Good,1,Good,28,Good,1,Good,29,Good
+France,Montmagny,60,Moderate,1,Good,20,Good,6,Good,60,Moderate
+France,Ozoir La Ferriere,62,Moderate,1,Good,25,Good,4,Good,62,Moderate
+France,Sainte Foy Les Lyon,110,Unhealthy for Sensitive Groups,1,Good,33,Good,3,Good,110,Unhealthy for Sensitive Groups
+France,Neuilly Plaisance,60,Moderate,1,Good,19,Good,6,Good,60,Moderate
+France,Andresy,33,Good,1,Good,27,Good,2,Good,33,Good
+France,Bagnolet,34,Good,1,Good,26,Good,3,Good,34,Good
+France,Chambery,52,Moderate,1,Good,21,Good,3,Good,52,Moderate
+France,Bretigny Sur Orge,35,Good,1,Good,27,Good,3,Good,35,Good
+France,Oyonnax,62,Moderate,1,Good,30,Good,1,Good,62,Moderate
+France,Sevran,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Soissons,31,Good,1,Good,25,Good,2,Good,31,Good
+France,Bischwiller,34,Good,1,Good,34,Good,1,Good,28,Good
+France,Chatellerault,34,Good,1,Good,27,Good,2,Good,34,Good
+France,Anzin,54,Moderate,1,Good,41,Good,1,Good,54,Moderate
+France,Landerneau,37,Good,1,Good,37,Good,2,Good,37,Good
+France,Le Raincy,69,Moderate,1,Good,45,Good,1,Good,69,Moderate
+France,Oissel,58,Moderate,1,Good,43,Good,1,Good,58,Moderate
+France,Saint Avold,68,Moderate,1,Good,54,Moderate,0,Good,68,Moderate
+France,Sainte Genevieve Des Bois,73,Moderate,1,Good,43,Good,2,Good,73,Moderate
+France,Plouzane,35,Good,1,Good,34,Good,3,Good,35,Good
+France,Puteaux,69,Moderate,1,Good,45,Good,2,Good,69,Moderate
+France,Bar Le Duc,73,Moderate,1,Good,49,Good,0,Good,73,Moderate
+France,Carrieres Sous Poissy,67,Moderate,1,Good,44,Good,2,Good,67,Moderate
+France,Chateau Gontier,47,Good,1,Good,37,Good,0,Good,47,Good
+France,Chaville,72,Moderate,1,Good,43,Good,2,Good,72,Moderate
+France,Gap,48,Good,1,Good,38,Good,0,Good,48,Good
+France,Dax,40,Good,1,Good,40,Good,0,Good,21,Good
+France,Compiegne,59,Moderate,1,Good,48,Good,0,Good,59,Moderate
+France,Les Pavillons Sous Bois,68,Moderate,1,Good,21,Good,5,Good,68,Moderate
+France,Vichy,53,Moderate,1,Good,31,Good,1,Good,53,Moderate
+France,Mantes La Ville,63,Moderate,1,Good,28,Good,4,Good,63,Moderate
+France,Gennevillers,62,Moderate,1,Good,19,Good,6,Good,62,Moderate
+France,Selestat,66,Moderate,2,Good,25,Good,4,Good,66,Moderate
+France,Hayange,66,Moderate,1,Good,54,Moderate,0,Good,66,Moderate
+France,Saint Etienne,28,Good,1,Good,21,Good,5,Good,28,Good
+France,Saint Saulve,51,Moderate,1,Good,23,Good,5,Good,51,Moderate
+France,Provins,56,Moderate,1,Good,30,Good,2,Good,56,Moderate
+France,Montesson,70,Moderate,2,Good,28,Good,5,Good,70,Moderate
+France,Garges Les Gonesse,71,Moderate,2,Good,28,Good,5,Good,71,Moderate
+France,Gien,39,Good,1,Good,31,Good,2,Good,39,Good
+France,Romilly Sur Seine,76,Moderate,1,Good,47,Good,0,Good,76,Moderate
+France,Montmorency,68,Moderate,1,Good,45,Good,1,Good,68,Moderate
+France,Grigny,73,Moderate,2,Good,20,Good,6,Good,73,Moderate
+France,Viry Chatillon,73,Moderate,1,Good,44,Good,2,Good,73,Moderate
+France,Petit Bourg,50,Good,0,Good,28,Good,0,Good,50,Good
+France,We,27,Good,0,Good,27,Good,0,Good,11,Good
+France,Vanves,35,Good,1,Good,27,Good,3,Good,35,Good
+France,Salon De Provence,51,Moderate,1,Good,29,Good,2,Good,51,Moderate
+France,Pau,33,Good,1,Good,33,Good,1,Good,24,Good
+France,Bernissart,37,Good,1,Good,24,Good,3,Good,37,Good
+France,Mont De Marsan,43,Good,1,Good,36,Good,1,Good,43,Good
+France,Illkirch Graffenstaden,33,Good,1,Good,26,Good,2,Good,33,Good
+France,La Roche Sur Yon,42,Good,1,Good,27,Good,2,Good,42,Good
+France,Annecy Le Vieux,65,Moderate,1,Good,29,Good,1,Good,65,Moderate
+France,Baie Mahault,150,Unhealthy,0,Good,25,Good,0,Good,150,Unhealthy
+France,Comines,46,Good,1,Good,30,Good,3,Good,46,Good
+France,Thionville,50,Good,1,Good,28,Good,3,Good,50,Good
+France,Rambouillet,75,Moderate,2,Good,20,Good,6,Good,75,Moderate
+France,Saint Maurice,71,Moderate,2,Good,20,Good,6,Good,71,Moderate
+France,Saint Nazaire,30,Good,1,Good,30,Good,3,Good,15,Good
+France,Saint Pierre Des Corps,47,Good,1,Good,24,Good,3,Good,47,Good
+France,Laval,41,Good,1,Good,30,Good,2,Good,41,Good
+France,Pessac,54,Moderate,1,Good,38,Good,1,Good,54,Moderate
+France,Saint Remy De Provence,65,Moderate,1,Good,31,Good,3,Good,65,Moderate
+France,Sainte Suzanne,41,Good,1,Good,26,Good,0,Good,41,Good
+France,Sarrebourg,63,Moderate,1,Good,20,Good,4,Good,63,Moderate
+France,Charenton Le Pont,39,Good,1,Good,26,Good,3,Good,39,Good
+France,Seclin,48,Good,1,Good,25,Good,5,Good,48,Good
+France,Trappes,46,Good,1,Good,19,Good,4,Good,46,Good
+France,Rumilly,34,Good,1,Good,30,Good,1,Good,34,Good
+France,Saint Denis,43,Good,0,Good,28,Good,0,Good,43,Good
+France,Sainte Marie,43,Good,0,Good,28,Good,0,Good,43,Good
+France,Sens,35,Good,1,Good,26,Good,2,Good,35,Good
+France,Lamentin,49,Good,0,Good,28,Good,0,Good,49,Good
+France,Les Herbiers,40,Good,1,Good,40,Good,0,Good,21,Good
+France,Lons Le Saunier,70,Moderate,1,Good,43,Good,0,Good,70,Moderate
+France,Bailleul,37,Good,1,Good,37,Good,0,Good,37,Good
+France,Chateauroux,58,Moderate,1,Good,38,Good,0,Good,58,Moderate
+France,Luce,74,Moderate,1,Good,21,Good,5,Good,74,Moderate
+France,Montelimar,123,Unhealthy for Sensitive Groups,2,Good,22,Good,4,Good,123,Unhealthy for Sensitive Groups
+France,Rennes,51,Moderate,1,Good,27,Good,3,Good,51,Moderate
+France,Le Kremlin Bicetre,72,Moderate,2,Good,27,Good,6,Good,72,Moderate
+France,Neuilly Sur Marne,71,Moderate,2,Good,28,Good,6,Good,71,Moderate
+France,La Garenne Colombes,71,Moderate,2,Good,28,Good,5,Good,71,Moderate
+France,Sotteville Les Rouen,40,Good,1,Good,21,Good,3,Good,40,Good
+France,Sucy En Brie,50,Good,1,Good,22,Good,5,Good,50,Good
+France,Issoudun,44,Good,1,Good,20,Good,3,Good,44,Good
+France,Noumea,28,Good,0,Good,28,Good,0,Good,7,Good
+France,Vendome,56,Moderate,1,Good,34,Good,1,Good,56,Moderate
+France,Frejus,42,Good,1,Good,42,Good,1,Good,28,Good
+France,Le Creusot,35,Good,1,Good,25,Good,1,Good,35,Good
+France,Chateaudun,69,Moderate,1,Good,19,Good,4,Good,69,Moderate
+France,Carquefou,29,Good,1,Good,29,Good,3,Good,15,Good
+France,Sarreguemines,44,Good,1,Good,32,Good,3,Good,44,Good
+France,Rive De Gier,39,Good,1,Good,21,Good,4,Good,39,Good
+France,Saint Leu La Foret,50,Good,1,Good,20,Good,5,Good,50,Good
+France,Saint Pierre,51,Moderate,1,Good,28,Good,0,Good,51,Moderate
+France,Douchy Les Mines,37,Good,1,Good,24,Good,2,Good,37,Good
+France,Yzeure,39,Good,1,Good,28,Good,1,Good,39,Good
+France,Castres,35,Good,1,Good,35,Good,1,Good,31,Good
+France,Taverny,59,Moderate,1,Good,21,Good,5,Good,59,Moderate
+France,Clichy Sous Bois,70,Moderate,2,Good,28,Good,5,Good,70,Moderate
+France,Pirae,22,Good,0,Good,22,Good,0,Good,6,Good
+France,Saint Maur Des Fosses,71,Moderate,2,Good,27,Good,6,Good,71,Moderate
+France,Joinville Le Pont,71,Moderate,1,Good,45,Good,1,Good,71,Moderate
+France,Lingolsheim,52,Moderate,2,Good,29,Good,4,Good,52,Moderate
+France,Les Abymes,119,Unhealthy for Sensitive Groups,1,Good,25,Good,0,Good,119,Unhealthy for Sensitive Groups
+France,Saint Laurent Du Var,58,Moderate,1,Good,58,Moderate,1,Good,44,Good
+France,Ploufragan,48,Good,1,Good,37,Good,2,Good,48,Good
+France,Ducos,139,Unhealthy for Sensitive Groups,1,Good,26,Good,0,Good,139,Unhealthy for Sensitive Groups
+France,Aubagne,145,Unhealthy for Sensitive Groups,1,Good,25,Good,13,Good,145,Unhealthy for Sensitive Groups
+France,Hoenheim,33,Good,1,Good,33,Good,1,Good,28,Good
+France,Le Vesinet,48,Good,1,Good,19,Good,4,Good,48,Good
+France,Eaubonne,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+France,Forbach,52,Moderate,1,Good,27,Good,3,Good,52,Moderate
+France,Albert,51,Moderate,1,Good,22,Good,4,Good,51,Moderate
+France,Aubenas,37,Good,1,Good,26,Good,2,Good,37,Good
+France,Chamalieres,32,Good,1,Good,32,Good,1,Good,21,Good
+France,Villeneuve Les Avignon,66,Moderate,1,Good,30,Good,3,Good,66,Moderate
+France,Montbeliard,44,Good,1,Good,25,Good,2,Good,44,Good
+France,Vauvert,42,Good,1,Good,32,Good,1,Good,42,Good
+France,Saint Jean De Luz,44,Good,0,Good,40,Good,0,Good,44,Good
+France,Castelnau Le Lez,43,Good,1,Good,37,Good,0,Good,43,Good
+France,La Trinite,97,Moderate,0,Good,25,Good,0,Good,97,Moderate
+France,Colmar,43,Good,1,Good,23,Good,2,Good,43,Good
+France,Besancon,42,Good,1,Good,24,Good,2,Good,42,Good
+France,Papeete,32,Good,0,Good,32,Good,0,Good,13,Good
+France,Plaisir,31,Good,1,Good,29,Good,2,Good,31,Good
+France,Perpignan,40,Good,1,Good,33,Good,2,Good,40,Good
+France,Auxerre,50,Good,1,Good,30,Good,2,Good,50,Good
+France,La Possession,43,Good,0,Good,28,Good,0,Good,43,Good
+France,Douai,50,Good,1,Good,24,Good,4,Good,50,Good
+France,Lille,48,Good,1,Good,27,Good,4,Good,48,Good
+France,Longwy,51,Moderate,1,Good,29,Good,3,Good,51,Moderate
+France,Juvisy Sur Orge,58,Moderate,1,Good,19,Good,6,Good,58,Moderate
+France,Ussel,56,Moderate,1,Good,35,Good,0,Good,56,Moderate
+France,Villeneuve Loubet,38,Good,1,Good,38,Good,2,Good,33,Good
+France,Olivet,38,Good,1,Good,23,Good,2,Good,38,Good
+France,Villemomble,51,Moderate,1,Good,21,Good,5,Good,51,Moderate
+France,Montigny Les Metz,34,Good,1,Good,20,Good,4,Good,34,Good
+France,Guebwiller,32,Good,1,Good,31,Good,1,Good,32,Good
+France,Castelnaudary,31,Good,1,Good,31,Good,1,Good,20,Good
+France,Saint Jean De La Ruelle,48,Good,1,Good,22,Good,4,Good,48,Good
+France,Begles,41,Good,1,Good,41,Good,0,Good,25,Good
+France,Carcassonne,43,Good,1,Good,43,Good,0,Good,36,Good
+France,Vieux Conde,59,Moderate,1,Good,33,Good,3,Good,59,Moderate
+France,Lourdes,32,Good,1,Good,32,Good,1,Good,19,Good
+France,Cognac,46,Good,1,Good,25,Good,2,Good,46,Good
+France,Rosny Sous Bois,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Saint Gaudens,32,Good,1,Good,32,Good,1,Good,21,Good
+France,Vierzon,38,Good,1,Good,26,Good,2,Good,38,Good
+France,Lamballe,51,Moderate,1,Good,34,Good,2,Good,51,Moderate
+France,Ecully,110,Unhealthy for Sensitive Groups,2,Good,26,Good,4,Good,110,Unhealthy for Sensitive Groups
+France,Gaillard,63,Moderate,1,Good,30,Good,2,Good,63,Moderate
+France,Nogent Sur Marne,71,Moderate,1,Good,45,Good,1,Good,71,Moderate
+France,Tournon Sur Rhone,57,Moderate,1,Good,49,Good,0,Good,57,Moderate
+France,Lanester,46,Good,1,Good,23,Good,3,Good,46,Good
+France,Bollene,56,Moderate,1,Good,27,Good,3,Good,56,Moderate
+France,Vaureal,76,Moderate,2,Good,19,Good,6,Good,76,Moderate
+France,Yvetot,65,Moderate,1,Good,32,Good,2,Good,65,Moderate
+France,Antony,35,Good,1,Good,27,Good,3,Good,35,Good
+France,Le Chambon Feugerolles,32,Good,1,Good,22,Good,2,Good,32,Good
+France,Luneville,38,Good,1,Good,23,Good,3,Good,38,Good
+France,Melun,34,Good,1,Good,26,Good,3,Good,34,Good
+France,Mericourt,35,Good,0,Good,26,Good,2,Good,35,Good
+France,Montceau Les Mines,42,Good,1,Good,25,Good,2,Good,42,Good
+France,Athis Mons,73,Moderate,2,Good,20,Good,6,Good,73,Moderate
+France,Neuilly Sur Seine,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+France,Cergy,46,Good,1,Good,19,Good,4,Good,46,Good
+France,Lomme,44,Good,1,Good,38,Good,1,Good,44,Good
+France,Evry,74,Moderate,1,Good,44,Good,1,Good,74,Moderate
+France,Cluses,62,Moderate,1,Good,40,Good,0,Good,62,Moderate
+France,Colomiers,41,Good,1,Good,39,Good,1,Good,41,Good
+France,Cran Gevrier,61,Moderate,1,Good,43,Good,0,Good,61,Moderate
+France,Marcq En Baroeul,44,Good,1,Good,38,Good,1,Good,44,Good
+France,Stains,69,Moderate,1,Good,21,Good,6,Good,69,Moderate
+France,Les Lilas,83,Moderate,2,Good,17,Good,9,Good,83,Moderate
+France,Auchel,31,Good,0,Good,29,Good,1,Good,31,Good
+France,Creteil,34,Good,1,Good,26,Good,3,Good,34,Good
+France,Clichy,71,Moderate,2,Good,28,Good,6,Good,71,Moderate
+France,Wattignies,32,Good,0,Good,29,Good,2,Good,32,Good
+France,Gros Morne,86,Moderate,0,Good,25,Good,0,Good,86,Moderate
+France,Tourcoing,46,Good,1,Good,36,Good,2,Good,46,Good
+France,Etaples,29,Good,0,Good,29,Good,2,Good,28,Good
+France,Thonon Les Bains,32,Good,1,Good,28,Good,1,Good,32,Good
+France,Troyes,30,Good,1,Good,25,Good,1,Good,30,Good
+France,Firminy,145,Unhealthy for Sensitive Groups,1,Good,34,Good,1,Good,145,Unhealthy for Sensitive Groups
+France,Saint Amand Les Eaux,53,Moderate,1,Good,40,Good,1,Good,53,Moderate
+France,Valenton,84,Moderate,3,Good,16,Good,10,Good,84,Moderate
+France,Villepinte,79,Moderate,2,Good,19,Good,7,Good,79,Moderate
+France,Agde,47,Good,1,Good,47,Good,0,Good,31,Good
+France,Meudon,67,Moderate,1,Good,23,Good,5,Good,67,Moderate
+France,Le Pecq,71,Moderate,1,Good,43,Good,2,Good,71,Moderate
+France,Allonnes,48,Good,1,Good,32,Good,1,Good,48,Good
+France,Dijon,142,Unhealthy for Sensitive Groups,1,Good,31,Good,2,Good,142,Unhealthy for Sensitive Groups
+France,Noisy Le Sec,70,Moderate,1,Good,46,Good,1,Good,70,Moderate
+France,Saint Andre,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+France,Bouguenais,30,Good,0,Good,30,Good,1,Good,17,Good
+France,Saint Avertin,38,Good,1,Good,25,Good,2,Good,38,Good
+France,Saint Die,31,Good,1,Good,31,Good,1,Good,30,Good
+France,Aix Les Bains,48,Good,1,Good,24,Good,2,Good,48,Good
+France,Courcouronnes,74,Moderate,1,Good,44,Good,1,Good,74,Moderate
+France,Bruges,42,Good,1,Good,42,Good,0,Good,22,Good
+France,Fresnes,72,Moderate,2,Good,20,Good,6,Good,72,Moderate
+France,Verrieres Le Buisson,72,Moderate,1,Good,44,Good,2,Good,72,Moderate
+France,La Teste De Buch,41,Good,1,Good,41,Good,0,Good,18,Good
+France,Le Bourget,68,Moderate,1,Good,46,Good,1,Good,68,Moderate
+France,Vigneux Sur Seine,72,Moderate,1,Good,44,Good,1,Good,72,Moderate
+France,Caluire Et Cuire,55,Moderate,1,Good,30,Good,2,Good,55,Moderate
+France,Aubiere,150,Unhealthy,1,Good,32,Good,2,Good,150,Unhealthy
+France,Chilly Mazarin,71,Moderate,2,Good,27,Good,7,Good,71,Moderate
+France,Oignies,49,Good,1,Good,38,Good,1,Good,49,Good
+France,Vannes,59,Moderate,1,Good,31,Good,2,Good,59,Moderate
+France,Bouc Bel Air,30,Good,1,Good,30,Good,5,Good,30,Good
+France,Elbeuf,53,Moderate,1,Good,27,Good,3,Good,53,Moderate
+France,Thiers,36,Good,1,Good,24,Good,2,Good,36,Good
+France,Boissy Saint Leger,30,Good,1,Good,28,Good,2,Good,30,Good
+France,Montrouge,31,Good,1,Good,28,Good,2,Good,31,Good
+France,Cahors,40,Good,1,Good,24,Good,2,Good,40,Good
+France,Eragny,48,Good,1,Good,19,Good,4,Good,48,Good
+France,La Motte Servolex,64,Moderate,1,Good,32,Good,1,Good,64,Moderate
+France,Le Moule,101,Unhealthy for Sensitive Groups,0,Good,25,Good,0,Good,101,Unhealthy for Sensitive Groups
+France,Lievin,35,Good,0,Good,26,Good,2,Good,35,Good
+France,Vandoeuvre Les Nancy,28,Good,1,Good,22,Good,3,Good,28,Good
+France,Sallanches,28,Good,1,Good,28,Good,0,Good,25,Good
+France,Narbonne,48,Good,1,Good,48,Good,0,Good,33,Good
+France,Saint Gratien,67,Moderate,1,Good,46,Good,1,Good,67,Moderate
+France,Auray,33,Good,0,Good,33,Good,0,Good,26,Good
+France,Vitre,42,Good,1,Good,30,Good,2,Good,42,Good
+France,Maromme,31,Good,0,Good,31,Good,1,Good,27,Good
+France,Vesoul,53,Moderate,1,Good,29,Good,2,Good,53,Moderate
+France,Tinqueux,30,Good,1,Good,25,Good,2,Good,30,Good
+France,Tourlaville,33,Good,1,Good,8,Good,16,Good,33,Good
+France,Kingersheim,34,Good,1,Good,30,Good,1,Good,34,Good
+France,Lormont,42,Good,0,Good,42,Good,0,Good,24,Good
+France,La Valette Du Var,59,Moderate,1,Good,28,Good,7,Good,59,Moderate
+France,Cestas,42,Good,1,Good,42,Good,0,Good,19,Good
+France,Epinay Sur Seine,71,Moderate,2,Good,28,Good,5,Good,71,Moderate
+France,Cormeilles En Parisis,66,Moderate,1,Good,46,Good,1,Good,66,Moderate
+France,Talant,42,Good,1,Good,25,Good,2,Good,42,Good
+France,Saint Orens De Gameville,32,Good,1,Good,32,Good,2,Good,23,Good
+France,Vence,69,Moderate,1,Good,35,Good,3,Good,69,Moderate
+France,Cugnaux,33,Good,1,Good,33,Good,1,Good,22,Good
+France,Oloron Sainte Marie,36,Good,1,Good,36,Good,0,Good,16,Good
+France,Maubeuge,39,Good,1,Good,22,Good,4,Good,39,Good
+France,Hericourt,60,Moderate,1,Good,48,Good,0,Good,60,Moderate
+France,Etampes,41,Good,1,Good,22,Good,3,Good,41,Good
+France,Creil,50,Good,1,Good,21,Good,5,Good,50,Good
+France,Villeurbanne,70,Moderate,1,Good,54,Moderate,0,Good,70,Moderate
+France,Soyaux,38,Good,1,Good,38,Good,1,Good,26,Good
+France,Sceaux,50,Good,1,Good,20,Good,5,Good,50,Good
